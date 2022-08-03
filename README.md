@@ -42,7 +42,7 @@ Users should be able to:
 
 
 ### What I learned
-the objective of this project was to get and experience with a real life workflow situation. i learnt how to use CSS Variables to a reasonable degree.
+the objective of this project was to get an experience with a real life workflow situation. i learnt how to use CSS Variables to a reasonable degree.
 
 
 ### Continued development
