@@ -25,11 +25,9 @@ Users should be able to:
 
 
 ### Links
-- Solution URL: [Frontend Mentor]
-(https://www.frontendmentor.io/solutions/responsive-product-preview-web-component-using-html-and-css-flexbox-_Wa8ATL-MW)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-product-preview-web-component-using-html-and-css-flexbox-_Wa8ATL-MW)
 
-- Live Site URL: [GitHub]
-(https://johnnysedh3lllo.github.io/product-preview-component-frontend-mentor/)
+- Live Site URL: [GitHub](https://johnnysedh3lllo.github.io/product-preview-component-frontend-mentor/)
 
 
 ## My process
@@ -50,9 +48,9 @@ in later projects i would like to focus on utilizing CSS Grid more to become mor
 
 
 ## Author
-- GitHub - [johnnysedh3lllo] (https://github.com/johnnysedh3lllo)
+- GitHub - [johnnysedh3lllo](https://github.com/johnnysedh3lllo)
 
-- Frontend Mentor - [@johnnysedh3lllo] (https://www.frontendmentor.io/profile/johnnysedh3lllo)
+- Frontend Mentor - [@johnnysedh3lllo](https://www.frontendmentor.io/profile/johnnysedh3lllo)
 
 - Twitter - [@johnnysedh3lllo](https://www.twitter.com/johnnysedh3lllo)
 
